@@ -1,6 +1,6 @@
 .idea/
-_backups/
+_backups/**
+!_backups/README.md
 node_modules/
 *.sqlite*
 
-!README.md
