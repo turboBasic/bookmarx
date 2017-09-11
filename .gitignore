@@ -1,0 +1,6 @@
+.idea/
+_backups/
+node_modules/
+*.sqlite*
+
+!README.md
